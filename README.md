@@ -1,6 +1,5 @@
 ****************
-* Project 1 - Fully Homomorphic Encryption
-* Class: CS331
+* Fully Homomorphic Encryption
 * Date: March 30, 2023
 * Carson Morris
 **************** 
